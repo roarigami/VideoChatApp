@@ -1,2 +1,4 @@
 ## VideoChatApp
-Simple video chat application using React18.
+JavaScript video chat application V1.
+ReactJS
+WebRTC 
